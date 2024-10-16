@@ -1,0 +1,20 @@
+{
+  "authors": [
+    {"name": "J.R.R. Tolkien"},
+    {"name": "Douglas Adams"},
+    {"name": "Jane Austen"},
+    {"name": "George Orwell"}
+ ],
+  "categories": [
+    {"name": "Fiction"},
+    {"name": "Science Fiction"},
+    {"name": "Classics"},
+    {"name": "Dystopian"}
+  ],
+  "books": [
+    {"isbn": "978-0321765723", "title": "The Lord of the Rings", "author": "J.R.R. Tolkien", "category": "Fiction", "publication_year": 1954, "available_copies": 5},
+    {"isbn": "978-0345391803", "title": "The Hitchhiker's Guide to the Galaxy", "author": "Douglas Adams", "category": "Science Fiction", "publication_year": 1979, "available_copies": 3},
+    {"isbn": "978-0141439518", "title": "Pride and Prejudice", "author": "Jane Austen", "category": "Classics", "publication_year": 1813, "available_copies": 8},
+    {"isbn": "978-0451524935", "title": "Nineteen Eighty-Four", "author": "George Orwell", "category": "Dystopian", "publication_year": 1949, "available_copies": 2}
+  ]
+}
